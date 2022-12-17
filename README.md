@@ -1,6 +1,6 @@
 # hoc_git
-﻿
-## Git và Github cho sysadmin
+NẾU HAY HÃY CHO TÔI 1 SAO 
+
 
 ### Mục lục
 
